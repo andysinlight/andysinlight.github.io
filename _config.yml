@@ -1,15 +1,15 @@
 # Site settings
-title: Hux Blog 
+title: YYX Blog 
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: 
 description: "一生想做浪漫极客。@Hux黄玄的博客主页、个人网站, 知乎@黄玄／阿里@鬼栈／Front-End／UX Unicorn／Web &amp; Mobile Lover／Motion Design "
 baseurl: ""
-url: "http://huxpro.github.io"
-twitter_username: huxpro
-github_username:  huxpro
-facebook_username:  huxpro
-weibo_username: huxpro
-zhihu_username: huxpro
+url: "http://andysinlight.github.io"
+twitter_username: Andy
+github_username:  Andy
+facebook_username:  Andy
+weibo_username: Andy
+zhihu_username: Andy
 
 # Build settings
 markdown: kramdown 
