@@ -1,8 +1,8 @@
 # Site settings
-title: YYX Blog 
-header-img: img/home-bg.jpg
+title: Andy Blog 
+header-img: img/post-bg-js-module.jpg
 email: 
-description: "一生想做浪漫极客。@Hux黄玄的博客主页、个人网站, 知乎@黄玄／阿里@鬼栈／Front-End／UX Unicorn／Web &amp; Mobile Lover／Motion Design "
+description: "好好学习。@Hux黄玄的博客主页、个人网站, 知乎@黄玄／阿里@鬼栈／Front-End／UX Unicorn／Web &amp; Mobile Lover／Motion Design "
 baseurl: ""
 url: "http://andysinlight.github.io"
 twitter_username: Andy
