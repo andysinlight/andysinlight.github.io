@@ -1,1 +1,6 @@
-# andyslight.github.io
+#Hux Blog 
+
+
+
+###[View Hux Blog &rarr;](http://huxpro.github.io)
+
