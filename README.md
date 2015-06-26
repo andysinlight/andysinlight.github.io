@@ -2,5 +2,5 @@
 
 
 
-###[View Hux Blog &rarr;](http://huxpro.github.io)
+###[View my Blong &rarr;](http://andysinlight.github.io)
 
